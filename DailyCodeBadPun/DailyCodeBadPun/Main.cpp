@@ -5,3 +5,4 @@ int main() {
 	cout << "Whoever invented knock-knock jokes should get a no-bell prize" << endl;
 
 }
+//dead...your lame
